@@ -1,0 +1,2 @@
+# accountNumber|base64(owner)|balance|type|rule
+123|cnI=|150|SAVINGS|100

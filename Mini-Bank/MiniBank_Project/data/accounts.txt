@@ -1,0 +1,2 @@
+# accountNumber|base64(owner)|balance|type|rule
+111|REtQ|10000|SAVINGS|1500
