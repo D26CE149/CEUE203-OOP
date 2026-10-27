@@ -4,8 +4,8 @@ Welcome to the **CEUE203-OOP** repository! This repository contains practical Ja
 
 ---
 
-## 📁 Repository Structure
 
+## 📁 **Repository Structure**
 The repository is organized into two primary project directories:
 
 ```text
