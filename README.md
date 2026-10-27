@@ -67,10 +67,3 @@ java Main
 * **Version Control:** Git & GitHub
 
 ---
-
-### How to update your `README.md` on GitHub:
-1. On your repository page, click the **pencil icon ✏️** in the top right of the current `README` box (or click on `README.md` $\rightarrow$ Edit icon).
-2. Paste the markdown content above into the editor.
-3. Scroll down to **Commit changes**, add a brief message (e.g., `Update README structure`), and click **Commit changes**.
-
-<FollowUp label="Want me to generate custom documentation for the Mini-Bank project specifically?" query="Can you generate a detailed README specifically for the Mini-Bank project in this repository?"/>
