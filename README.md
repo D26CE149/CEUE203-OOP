@@ -1,6 +1,3 @@
-Here is a clean, structured `README.md` file tailored specifically for your **CEUE203-OOP** repository, reflecting your two project folders (`Mini-Bank` and `OOP_PR`).
-
-```markdown
 # CEUE203 - Object-Oriented Programming (OOP)
 
 Welcome to the **CEUE203-OOP** repository! This repository contains practical Java implementations, lab exercises, and projects completed for the Object-Oriented Programming course.
@@ -18,8 +15,6 @@ CEUE203-OOP/
 ├── OOP_PR/
 │   └── OOP_PR/             # Practical programs and core OOP concepts exercises
 └── README.md               # Repository documentation
-
-```
 
 ---
 
@@ -44,30 +39,22 @@ A collection of standalone programs covering fundamental and advanced Java conce
 
 
 
----
-
 ## 🛠️ How to Run locally
 
 1. **Clone the repository:**
 ```bash
 git clone [https://github.com/D26CE149/CEUE203-OOP.git](https://github.com/D26CE149/CEUE203-OOP.git)
 
-```
-
 
 2. **Navigate into a project folder:**
 ```bash
 cd CEUE203-OOP/Mini-Bank/MiniBank_Project
-
-```
 
 
 3. **Compile and run Java files:**
 ```bash
 javac Main.java
 java Main
-
-```
 
 
 
@@ -79,8 +66,6 @@ java Main
 * **Tools:** VS Code / Eclipse / IntelliJ IDEA
 * **Version Control:** Git & GitHub
 
-```
-
 ---
 
 ### How to update your `README.md` on GitHub:
@@ -89,5 +74,3 @@ java Main
 3. Scroll down to **Commit changes**, add a brief message (e.g., `Update README structure`), and click **Commit changes**.
 
 <FollowUp label="Want me to generate custom documentation for the Mini-Bank project specifically?" query="Can you generate a detailed README specifically for the Mini-Bank project in this repository?"/>
-
-```
