@@ -18,7 +18,7 @@ CEUE203-OOP/
 
 ---
 
-## 🚀 Projects Overview
+## 🚀 **Projects Overview**
 
 ### 🏦 1. Mini-Bank (`/Mini-Bank`)
 
@@ -37,9 +37,9 @@ A collection of standalone programs covering fundamental and advanced Java conce
 * Exception Handling
 * Packages & Access Modifiers
 
+---
 
-
-## 🛠️ How to Run locally
+## 🛠️** How to Run locally**
 
 1. **Clone the repository:**
 ```bash
@@ -60,7 +60,7 @@ java Main
 
 ---
 
-## 📝 Technologies Used
+## 📝 **Technologies Used**
 
 * **Language:** Java ☕
 * **Tools:** VS Code / Eclipse / IntelliJ IDEA
