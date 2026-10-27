@@ -1,1 +1,93 @@
-# CEUE203-OOP
+Here is a clean, structured `README.md` file tailored specifically for your **CEUE203-OOP** repository, reflecting your two project folders (`Mini-Bank` and `OOP_PR`).
+
+```markdown
+# CEUE203 - Object-Oriented Programming (OOP)
+
+Welcome to the **CEUE203-OOP** repository! This repository contains practical Java implementations, lab exercises, and projects completed for the Object-Oriented Programming course.
+
+---
+
+## 📁 Repository Structure
+
+The repository is organized into two primary project directories:
+
+```text
+CEUE203-OOP/
+├── Mini-Bank/
+│   └── MiniBank_Project/   # Java implementation of a basic banking system
+├── OOP_PR/
+│   └── OOP_PR/             # Practical programs and core OOP concepts exercises
+└── README.md               # Repository documentation
+
+```
+
+---
+
+## 🚀 Projects Overview
+
+### 🏦 1. Mini-Bank (`/Mini-Bank`)
+
+A basic banking application built to demonstrate real-world application of OOP principles:
+
+* **Features:** Account creation, deposit, withdrawal, and balance checking.
+* **Key Concepts Used:** Classes & Objects, Encapsulation, Methods, and Data Validation.
+
+### 💻 2. OOP Practical Work (`/OOP_PR`)
+
+A collection of standalone programs covering fundamental and advanced Java concepts:
+
+* **Topics Covered:**
+* Inheritance & Polymorphism
+* Abstraction & Interfaces
+* Exception Handling
+* Packages & Access Modifiers
+
+
+
+---
+
+## 🛠️ How to Run locally
+
+1. **Clone the repository:**
+```bash
+git clone [https://github.com/D26CE149/CEUE203-OOP.git](https://github.com/D26CE149/CEUE203-OOP.git)
+
+```
+
+
+2. **Navigate into a project folder:**
+```bash
+cd CEUE203-OOP/Mini-Bank/MiniBank_Project
+
+```
+
+
+3. **Compile and run Java files:**
+```bash
+javac Main.java
+java Main
+
+```
+
+
+
+---
+
+## 📝 Technologies Used
+
+* **Language:** Java ☕
+* **Tools:** VS Code / Eclipse / IntelliJ IDEA
+* **Version Control:** Git & GitHub
+
+```
+
+---
+
+### How to update your `README.md` on GitHub:
+1. On your repository page, click the **pencil icon ✏️** in the top right of the current `README` box (or click on `README.md` $\rightarrow$ Edit icon).
+2. Paste the markdown content above into the editor.
+3. Scroll down to **Commit changes**, add a brief message (e.g., `Update README structure`), and click **Commit changes**.
+
+<FollowUp label="Want me to generate custom documentation for the Mini-Bank project specifically?" query="Can you generate a detailed README specifically for the Mini-Bank project in this repository?"/>
+
+```
